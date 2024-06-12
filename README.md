@@ -1,6 +1,6 @@
                          ## About The Project
 
-![Product Screenshot](https://paste.pics/323078dedc1cc38b596c91b419f20104)
+![Screenshot](https://github.com/aabhiojha/dns-changer/blob/main/Screenshot%20from%202024-06-12%2007-58-57.png)
  ### Built With
 
 - [Python3](https://docs.python.org/3/)
